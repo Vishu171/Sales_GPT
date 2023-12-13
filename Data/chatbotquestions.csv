@@ -1,0 +1,44 @@
+﻿ID,Heading ,Description
+1,Integration Service Offerings,Platform Migration and Modernization
+2,Integration Service Offerings,"A2A, B2B/EDI and API-LED Integration"
+3,Integration Service Offerings,Data Integration
+4,Integration Partnerships,Boomi
+5,Integration Partnerships,Mulesoft
+6,Integration Partnerships,Informatica
+7,Data Analytics Service Offerings,Technology Advisory
+8,Data Analytics Service Offerings,"Data Engineering, DW and Lakehouse"
+9,Data Analytics Service Offerings,AI-Powered Advanced Analytics
+10,Data Analytics Partnership ,Databricks
+11,Data Analytics Partnership ,Informatica
+12,Data Analytics Partnership ,Snowflake
+13,Data Analytics Partnership ,Amazon Web Services
+14,Data Analytics Partnership ,Google Cloud Partner
+15,Data Analytics Partnership ,Tableau / Power BI
+16,Automation Offerings,Process & Technology Advisory
+17,Automation Offerings,Automation Enablement
+18,Automation Offerings,Kanverse.ai
+19,Automation Partnerships,UiPath
+20,Automation Partnerships,Automation Anywhere
+21,Automation Partnerships,Power Automate
+22,Automation Partnerships,Kanverse.ai
+23,GenAI Offerings,Generative AI Consulting
+24,GenAI Offerings,Generative AI Prototype
+25,GenAI Offerings,Generative AI Offerings
+26,What is IDS,"IDS or Intelligent Data Solution is a new Business Unit in Jade. This BU has been established to consolidate Data Services, Analytics, Automation, Kanverse.ai & Artificial Intelligence capabilities within the organization to define end to end solution that addresses our customer's challenges like data silo, tapping valuable data from non-conventional & untapped data sources to create automation solutions and advanced analytics. These end to end data solutions will help customer realizing value of data through quick decision making, accurate predictability and process efficiencies."
+27,Vision and Goal of IDS,"IDS has been established to define solutions by combining key technologies in AI/ML, Data & Analytics, Integration and Automation and augmenting capability with cutting edge technologies like Open AI, Snowflake, Streamlit, Boomi, AA, UiPath, Oracle ML, Azure AL, AWS Sage Maker etc. Key goals for IDS BU for FY24 are -"
+28,Vision and Goal of IDS,To define domain centric end To end solutions in the area of Healthcare and Hi-Tech
+29,Vision and Goal of IDS,Account mining and proactive offerings for P&G accounts
+30,Vision and Goal of IDS,Augmenting solution capability by integrating Generative AI capabilities
+31,Uniqueness of IDS,"In Jade BUs are focused on enterprise business applications and domain. We have expertise in achieving best of the result defining best practices and implementation of enterprise systems. These are key building blocks for our customers to meet their aspiration of digital transformation. Data lying within these systems are nurtured and used for analytics & reporting for business insights. However, this much visibility of data is just a tip of an ice-berg - covers 30%40% of total data. Majority of untapped data outside of these enterprise systems can only be captured with right blend of integration technology, automation technology and data lake. This is where Intelligent Data Solution stands out."
+32,New Partnerships,"IDS has key partnerships with major ISVs in its portfolio - Boomi, MuleSoft, Snowflake, Oracle, Microsoft, UiPath and Automation Anywhere. However, IDS is vigilant about emerging industry trends and customer demand to keep right set of technologies in its offering for the right solution. In FY24, we find Data Integration, Data Governance and MLOps as key gaps in our current set of offering and hence our key partnership focus is Informatica for Data Integration & Data Governance while Databricks on MLOps side."
+33,Business Challenges,An end to end Data Solution will help customer over-coming data related common challenges like -
+34,Business Challenges,Data Silos
+35,Business Challenges,Limited Reporting Capabilities
+36,Business Challenges,Slow Analytics & insights
+37,Business Challenges,Poor Quality / Missing Data
+38,Business Challenges,Data trust deficit
+39,IDS Service Offerings ,Consulting and Strategy
+40,IDS Service Offerings ,Integration and Modernization
+41,IDS Service Offerings ,Advanced Analytics
+42,IDS Service Offerings ,Intelligent Automation
+43,IDS Service Offerings ,Managed Services
