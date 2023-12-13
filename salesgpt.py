@@ -103,7 +103,7 @@ def get_system_prompt():
 
 st.title("SalesMate")
 with st.sidebar:
-    st.image('jade_logo.png',width=200)
+    st.image('assets/salesmategpt.png,width=200)
 
 # Initialize the chat messages history
 openai.api_key = st.secrets.OPENAI_API_KEY
